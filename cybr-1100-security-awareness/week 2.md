@@ -5,3 +5,9 @@
 
 
 **Reflection**
+
+- How long did it take to crack this hash?
+Instant
+
+- How long did it take this online rainbow table to crack this stronger password hash?
+Also instant 
