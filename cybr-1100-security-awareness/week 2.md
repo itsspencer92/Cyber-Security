@@ -1,5 +1,5 @@
 **Artifacts:**  
-[alt text](R9UOW9B.png)
+[alt text](.png)
 
 
 
