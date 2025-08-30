@@ -4,6 +4,7 @@
 We went over Cisco module 1. Then we were told on how to make a Github account, as well with SAGE for chatgpt 
 
 **Artifacts:**  
+![alt text]()
 
 
 **Reflection:**  
