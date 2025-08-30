@@ -19,3 +19,4 @@
 
 
    # labeled motherboard diagram
+<img width="921" height="638" alt="xS0sJip" src="https://github.com/user-attachments/assets/95105582-2a56-4e7a-8b5e-7afd72bfd3dc" />
