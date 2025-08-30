@@ -30,6 +30,7 @@ It’s scary how easy it is to crack those passwords.
 
 **Reflection**
 
+- From now on I will make much stronger/safer passwords for the websites that I use. 
 
 
 
