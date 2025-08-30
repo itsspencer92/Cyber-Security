@@ -1,5 +1,5 @@
 **Artifacts:**  
-[password](password.png)
+![password](password.png)
 
 
 
