@@ -1,5 +1,5 @@
 **Artifacts:**  
-[alt text](password.png)
+[password](password.png)
 
 
 
