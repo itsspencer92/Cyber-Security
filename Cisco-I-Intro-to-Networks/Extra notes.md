@@ -14,7 +14,7 @@
 
 
 # Extra information 
-- application represents data to the user
+- Application represents data to the user
 - Transport supports communication between variouis devices across divrese networks
 - Internet Determines the best path through networks
 - Network acess Controls the hardware devices and media that make up the network
