@@ -13,6 +13,14 @@
 -----
 
 
+# Infiltration
+- Something for something (quid pro quo)
+  This is when an attacker requests personal information from a person in exchange for something, like a free gift.
+- Tailgating
+  This is when an attacker quickly follows an authorized person into a secure, physical location.
+- Pretexting
+  This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
+
 # Extra information 
 - Application represents data to the user
 - Transport supports communication between variouis devices across divrese networks
