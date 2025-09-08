@@ -1,7 +1,7 @@
 # Introduction to cybersecuirty 
 
 ## Types of malware
-- spyware Cisco-I-Intro-to-Networks/week2.
+- spyware 
 - Adware is often installed with some versions of software and is designed to automatically deliver advertisements to a user
 - Backdoor This type of malware is used to gain unauthorized access by bypassing the normal authentication procedures to access a system
 - Ransomware This malware is designed to hold a computer system or the data it contains captive until a payment is made
