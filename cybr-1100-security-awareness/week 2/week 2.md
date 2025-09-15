@@ -4,7 +4,8 @@
 
 
 **Artifacts:**  
-![password](password.png)
+<img width="801" height="235" alt="password" src="https://github.com/user-attachments/assets/7a599180-0c51-45ee-957b-d8545799d01f" />
+
 
 <img width="656" height="67" alt="MD5" src="https://github.com/user-attachments/assets/98f3dc80-169c-49a8-8133-42a8221ab094" />
 
