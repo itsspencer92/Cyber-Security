@@ -5,7 +5,9 @@
 
 **Artifacts:**  
 ![password](password.png)
-![MD5](MD5.png) 
+
+<img width="656" height="67" alt="MD5" src="https://github.com/user-attachments/assets/98f3dc80-169c-49a8-8133-42a8221ab094" />
+
 ![hacked](hacked%20password.png)
 
 How long did it take to crack this hash?
