@@ -16,3 +16,19 @@
     (A switch loooks like a hub)
 
 - When a device can send data and receive data simultaneously, it’s called full-duplex mode.
+
+----
+# Notes for cisco:
+
+- What is the differnece between single-,ode and mutli-modw fiver
+  - SMf uses LED as a light source
+
+- What traffoc type is recommened fore UDP
+  - Voice
+
+- What connector type is associated with gigabit ethernet cabling
+  - RJ-45
+- Correct port number and troansport protcol for SSH
+  - TCP 22
+- Protcol is assoicated with TCP/IP modle data link
+    - Ethernet 
