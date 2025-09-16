@@ -7,8 +7,12 @@
   - Most multiport repaters have at least four ports, some have 24 or more.
 
 - A hub performs the same function as a repeater but with more outging ports to which bit signals are repated.
-    - Most hubs have inicator lights for power which are link status netowrk activity and collisions. Each port has a link status indicator which glows green. 
+    - Most hubs have inicator lights for power which are link status netowrk activity and collisions. Each port has a link status indicator which glows green.
+    - Uplinking is making a connection between devices such as two switches.
 ----
 - Netowrk bandwith is the amount of data that can be transferred on a netowrk during a specifi interval.
 
- 
+ - Netowrk switches are like hubs, which they are used to interconnect mutiplie computers so they can communicate wtih one another.
+    (A switch loooks like a hub)
+
+- When a device can send data and receive data simultaneously, it’s called full-duplex mode.
