@@ -1,4 +1,4 @@
-# Types of malwaere
+# Guided Malware Lab
 
 1. Spyware: Designed to track and spy on you
 2. Adware is often installed with some versions of software and is designed to automatically deliver advertisements to a user
