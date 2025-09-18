@@ -1,2 +1,1 @@
-
-![Malware protection](https://github.com/user-attachments/assets/bf3bf3ce-1c99-4529-be54-2c03ab5b03c0)
+![Malware protection (3)](https://github.com/user-attachments/assets/bb0bfc5b-4a26-41d5-ac97-32ce406718c9)
