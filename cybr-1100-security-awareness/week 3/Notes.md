@@ -1,1 +1,20 @@
+# Types of malwaere
+
+1. Spyware: Designed to track and spy on you
+2. Adware is often installed with some versions of software and is designed to automatically deliver advertisements to a user
+3. Backdoor This type of malware is used to gain unauthorized access by bypassing the normal authentication procedures to access a system
+4. Ransomware: This malware is designed to hold a computer system or the data it contains captive until a payment is made.
+5. Scareware: This is a type of malware that uses 'scare’ tactics to trick you into taking a specific action
+6. Rootkit: This malware is designed to modify the operating system to create a backdoor
+7. virus is a type of computer program that, when executed, replicates and attaches itself to other executable files,
+8. Torjan This malware carries out malicious operations by masking its true intent.
+9. Worm This is a type of malware that replicates itself in order to spread from one computer to another.
+
+
+# Infection method & symptoms:
+----
+- Pretexting: This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
+-  Tailgating: This is when an attacker quickly follows an authorized person into a secure, physical location.
+-  Something for something (quid pro quo): This is when an attacker requests personal information from a person in exchange for something, like a free gift.
+
 
