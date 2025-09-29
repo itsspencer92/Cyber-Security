@@ -1,6 +1,15 @@
 # Survery
-  Question 1 
+“Do you know what location services are?” 
 
-  Question 2 
 
-  Question 3 
+- “What is a MAID?” 
+
+
+- “Are you aware of surveillance-based advertisers?” 
+
+
+- “Does your school monitor your actions and how do they use that information?” 
+
+----
+
+Write an analysis of their answers and perceptions about privacy.
