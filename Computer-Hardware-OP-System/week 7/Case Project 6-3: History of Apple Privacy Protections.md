@@ -1,1 +1,1 @@
-Research how Apple has changed how it protects user privacy on smartphones since 2010. Why have they made changes? Are these sufficient? Do Apple iPhones provide better privacy than Google Android devices? Why or why not? Write a one-page paper on your research.
+
