@@ -12,8 +12,12 @@ The most recent thing they've done with ITP is added a Privacy Report to its IOS
 
 
 
-# Apple and Andorid privacy 
-Apple 
+# Apple and Andriod privacy 
+Apple: 
 
 One of the things that Apple has is App Tracking, which requires apps to get users permission to track their activity. 
 Another things that Apple has is data collecting. Which google collects the users data including location, from different sources. 
+
+
+Andriod:
+ Andriod has a open source natur eused by many different phone manufactures which can lead to less consistent secuirty and privacy practices across the ecosystem. 
