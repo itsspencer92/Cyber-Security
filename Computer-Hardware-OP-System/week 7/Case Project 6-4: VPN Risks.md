@@ -1,3 +1,4 @@
-# VPN Risks: 
+# VPNs: 
+My recommendtion to use a VPN would have to be Nord. I have heard about and used it myself, a few times over and over. It's been a good VPN allowing  me to acess shows that aren't out for the US. Also you can go on YouTube and any tech channel to get some disccount code by clicking there link. That's what I did and how I found out about NordVPN. They do have a "No-Log" privacy meaning that they won't track your passwords for accounts or look at the history as well. Nord also has fast speeds which is good for gaming and streaming if you do those things. They also have a threat protection tool. What it mainly does is blocvks malware and ads which slighlty helps your browser experince. They also have a 30-day money back which is true becuase I did refund my money and got it back after I was done with Nord. The pricing for Nord is also pretty good, it can arange anywhere from $3.09-17.99 per month. But that only choses what option you want to get. They do show you the best deals that other people get as well, whichh I think is nice to know. 
 
 
