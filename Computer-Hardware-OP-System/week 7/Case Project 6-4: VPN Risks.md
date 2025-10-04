@@ -1,3 +1,3 @@
-Because VPNs use TLS instead of end-to-end encryption, the vendors behind the VPNs can store and then make available the list of websites that users access, which is the very opposite of the goals of a VPN. Research the history of VPNs that have compromised user security by storing this information and then making it available. Next, select three VPNs and carefully read the Terms of Service document. Do they specifically state that no user data will be stored on their servers? How could this be verified? Based on your research, which VPN provider would you choose? Why? Write a one-page paper on your research.
+# VPN Risks: 
 
 
