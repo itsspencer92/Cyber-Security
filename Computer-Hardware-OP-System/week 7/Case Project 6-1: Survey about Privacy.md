@@ -1,4 +1,4 @@
-# Survery
+# Survey
 “Do you know what location services are?” 
 
 
